@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: PLY_Aris_Att1
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: ea7a221789e3c3c4cb52262c9367a9c3, type: 3}
+    - {fileID: 2800000, guid: 01d5e8916f39edd40b269e03321591f2, type: 3}
+    - {fileID: 2800000, guid: 0c0794b39d7f3cf479695966e87fc19b, type: 3}
+    - {fileID: 2800000, guid: 580ab9945907e464497cf376a7eb1cf8, type: 3}
+    - {fileID: 2800000, guid: 7ccdb572c57749049af656b5dc20f690, type: 3}
+    - {fileID: 2800000, guid: 44901adbc824d924dbc072e0094e43bf, type: 3}
+    - {fileID: 2800000, guid: e5a628b53ddfcfe4da2821c7c89742de, type: 3}
+    - {fileID: 2800000, guid: 284958c83d7dccb4bb78e39b229d53da, type: 3}
+    totalSpriteSurfaceArea: 17221158
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 01d5e8916f39edd40b269e03321591f2, type: 3}
+  - {fileID: 21300000, guid: 7ccdb572c57749049af656b5dc20f690, type: 3}
+  - {fileID: 21300000, guid: 0c0794b39d7f3cf479695966e87fc19b, type: 3}
+  - {fileID: 21300000, guid: 580ab9945907e464497cf376a7eb1cf8, type: 3}
+  - {fileID: 21300000, guid: e5a628b53ddfcfe4da2821c7c89742de, type: 3}
+  - {fileID: 21300000, guid: ea7a221789e3c3c4cb52262c9367a9c3, type: 3}
+  - {fileID: 21300000, guid: 284958c83d7dccb4bb78e39b229d53da, type: 3}
+  - {fileID: 21300000, guid: 44901adbc824d924dbc072e0094e43bf, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - PLY_Aris_Att1_2
+  - PLY_Aris_Att2_2
+  - PLY_Aris_Att1_3
+  - PLY_Aris_Att2_1
+  - PLY_Aris_Att2_4
+  - PLY_Aris_Att1_1
+  - PLY_Aris_IDLE
+  - PLY_Aris_Att2_3
+  m_RenderDataMap: {}
+  m_Tag: PLY_Aris_Att1
+  m_IsVariant: 0
